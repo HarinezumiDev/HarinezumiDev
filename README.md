@@ -19,7 +19,7 @@
 
 I build backend systems in Rust, create Minecraft mods and plugins in Java and Kotlin, and am learning microcontroller development in C.
 
-I have used NixOS for more than a year and run a home server on Debian with a Raspberry Pi 4.
+I have been using NixOS for over a year, and I run a home server on Debian with a Raspberry Pi 4.
 
 ---
 
