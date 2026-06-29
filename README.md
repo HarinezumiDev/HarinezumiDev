@@ -29,7 +29,7 @@ I have been using NixOS for over a year, and I run a home server on Debian with 
   <a href="https://modrinth.com/user/harinezumi_dev">
     <img src="https://img.shields.io/badge/Modrinth-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" />
   </a>
-  <a href="mailto:h-dev@h-net.work">
+  <a href="mailto:hdev@h-net.work">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
