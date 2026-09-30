@@ -25,7 +25,7 @@ I have been using NixOS for over a year, and I run a home server on Debian with 
 
 ## 📊 Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarinezumiDev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=HarinezumiDev&layout=compact&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
